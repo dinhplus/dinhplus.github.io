@@ -1,0 +1,14 @@
+.center-content {
+    height: 500px;
+    background: crimson;
+}
+
+.ringht-bar {
+    height: 600px;
+    background: darkgoldenrod;
+}
+
+.left-bar {
+    height: 600px;
+    background: darkmagenta;
+}
