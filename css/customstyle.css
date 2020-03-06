@@ -12,3 +12,16 @@
     height: 600px;
     background: darkmagenta;
 }
+
+.avt {
+    width: 90%;
+    height: 90%;
+}
+
+#circle {
+    border-radius: 50%;
+    background-image: url(https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/69330572_905478763149362_1139492159779504128_n.jpg?_nc_cat=108&_nc_sid=85a577&_nc_ohc=dq8R2s11vH8AX_AvwXz&_nc_ht=scontent.fhan2-3.fna&oh=7e4e4423144116bbed7da51978bf2c5f&oe=5E828C90);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
