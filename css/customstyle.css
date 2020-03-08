@@ -1,5 +1,5 @@
 .center-content {
-    height: 500px;
+    height: 600px;
     background: crimson;
 }
 
@@ -20,8 +20,11 @@
 
 #circle {
     border-radius: 50%;
-    background-image: url(https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/69330572_905478763149362_1139492159779504128_n.jpg?_nc_cat=108&_nc_sid=85a577&_nc_ohc=dq8R2s11vH8AX_AvwXz&_nc_ht=scontent.fhan2-3.fna&oh=7e4e4423144116bbed7da51978bf2c5f&oe=5E828C90);
+    /* background-image: url(https://scontent.fhan3-3.fna.fbcdn.net/v/t1.0-9/p720x720/88013959_1060683857628851_1724692045248856064_o.jpg?_nc_cat=101&_nc_sid=110474&_nc_ohc=0yE3tuYVpHEAX-1N0Ni&_nc_ht=scontent.fhan3-3.fna&_nc_tp=6&oh=0daa209674943ad05d3aeaef23415b72&oe=5E96900D); */
+    /* background-image: url(https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/69330572_905478763149362_1139492159779504128_n.jpg?_nc_cat=108&_nc_sid=85a577&_nc_ohc=dq8R2s11vH8AX_AvwXz&_nc_ht=scontent.fhan2-3.fna&oh=7e4e4423144116bbed7da51978bf2c5f&oe=5E828C90); */
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    /* background: blue; */
+    /* background-image: url(https://scontent.fhan3-3.fna.fbcdn.net/v/t1.0-9/p720x720/88013959_1060683857628851_1724692045248856064_o.jpg?_nc_cat=101&_nc_sid=110474&_nc_ohc=0yE3tuYVpHEAX-1N0Ni&_nc_ht=scontent.fhan3-3.fna&_nc_tp=6&oh=0daa209674943ad05d3aeaef23415b72&oe=5E96900D); */
 }
