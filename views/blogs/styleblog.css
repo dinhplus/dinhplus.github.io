@@ -1,0 +1,10 @@
+.item {
+    display: flex;
+    width: 800px;
+    justify-content: space-around;
+    background-color: khaki;
+}
+
+img {
+    width: 200px;
+}
