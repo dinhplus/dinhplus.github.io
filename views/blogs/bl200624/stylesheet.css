@@ -1,3 +1,7 @@
+html {
+    font: 1.5em sans-serif;
+}
+
 .center-content {
     /* height: 1000px; */
     background: rgb(20, 147, 220);
