@@ -1,7 +1,8 @@
 .center-content {
     /* height: 1000px; */
-    background: rgb(20, 147, 220);
-    display: block;
+    background: rgb(195, 210, 219);
+    /* display: block; */
+    height: 2000px;
 }
 
 .ringht-bar {
