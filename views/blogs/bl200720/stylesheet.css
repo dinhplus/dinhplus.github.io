@@ -1,0 +1,43 @@
+html {
+    font: 1.5em sans-serif;
+}
+
+.center-content {
+    /* height: 1000px; */
+    background: rgba(182, 217, 236, 0.8);
+    width: inherit;
+    padding: 100px;
+}
+
+* img {
+    width: inherit;
+}
+
+* video {
+    width: inherit;
+}
+
+.ringht-bar {
+    /* height: 1000px; */
+    background: rgb(23, 208, 214);
+    display: block;
+}
+
+.left-bar {
+    /* height: 1000px; */
+    background: rgb(92, 196, 228);
+    display: block;
+}
+
+.avt {
+    width: 500px;
+    height: 500px;
+}
+
+#circle {
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* background-image: url(/image/95330062_653537755223993_4216766687548014592_o.jpg); */
+}
