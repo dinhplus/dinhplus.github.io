@@ -6,6 +6,7 @@ html {
     /* height: 1000px; */
     background: rgb(20, 147, 220);
     display: block;
+    padding: 10px;
 }
 
 .ringht-bar {
