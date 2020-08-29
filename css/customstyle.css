@@ -2,34 +2,19 @@ html {
     font: 1.5em sans-serif;
 }
 
-.center-content {
-    /* height: 1000px; */
-    background: rgb(195, 210, 219);
-    /* display: block; */
-    height: 2000px;
+* {
+    padding: 0;
+    margin: 0;
 }
 
-.ringht-bar {
-    /* height: 1000px; */
-    background: rgb(23, 208, 214);
-    display: block;
+.main {
+    width: 90%;
+    height: 810px;
+    background: lime;
 }
 
-.left-bar {
-    /* height: 1000px; */
-    background: rgb(92, 196, 228);
-    display: block;
-}
-
-.avt {
-    width: 500px;
-    height: 500px;
-}
-
-#circle {
-    border-radius: 50%;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    /* background-image: url(../image/95330062_653537755223993_4216766687548014592_o.jpg); */
+.retangle {
+    width: 33%;
+    height: 33%;
+    background: lime;
 }
